@@ -1,30 +1,15 @@
-PuzzleScript
+PuzzleScript-AI
 ============
 
-Open Source HTML5 Puzzle Game Engine
+This repository provides Artificial Intelligence extensions to Stephen Lavelle's Puzzlescript, an open-source HTML5 Puzzle Game Engine available at http://www.puzzlescript.net
 
-Try it out at http://www.puzzlescript.net
+The PuzzleScript-AI extensions including the simulator and evolver were presented at the Computational Intelligence and Games 2014 Conference in Dortmund, Germany. To cite:
 
------
+- Chong-U Lim and D. Fox Harrell. (2014) "An Approach to General Videogame Evaluation and Automatic Generation using a Description Language", Proceedings of the IEEE Conference on Computational Intelligence and Games (CIG), Dortmund, Germany, 2014. 8 pp.
 
-The MIT License (MIT)
+PuzzleScript-AI is dual-licensed. 
 
-Copyright (c) 2013 Stephen Lavelle
+ - All the code-related to PuzzleScript is under the [MIT License](http://opensource.org/licenses/MIT) (MIT) and Copyright (c) Stephen Lavelle
+ - The AI-extensions (js/simulator.js and js/evolver.js) are under the [Creative Commons  Attribution-NonCommercial-ShareAlike 3.0 Unported](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
